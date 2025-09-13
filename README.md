@@ -3,7 +3,7 @@
 
 📘 I’m currently learning networking and Spanish
 
-👯 I’m looking to collaborate on networking-related projects
+👯 I’m looking to collaborate on networking and data analysis related projects
 
 📫 How to reach me: sarahmercier94@gmail.com
 <!--
