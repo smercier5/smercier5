@@ -1,5 +1,11 @@
 ## Hi there 👋
+🔭 I’m currently working on a personal project focused on student performance analysis
 
+📘 I’m currently learning networking and Spanish
+
+👯 I’m looking to collaborate on networking-related projects
+
+📫 How to reach me: sarahmercier94@gmail.com
 <!--
 **smercier5/smercier5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
